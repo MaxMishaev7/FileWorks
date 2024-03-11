@@ -1,4 +1,4 @@
-public class Main1 {
+public class Main {
     public static void main(String[] args) {
         GameProgress gameProgress1 = new GameProgress(100, 10, 1, 100.0);
         System.out.println(gameProgress1);

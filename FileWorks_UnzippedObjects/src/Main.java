@@ -1,4 +1,4 @@
-public class Main2 {
+public class Main {
     public static void main(String[] args) {
         String path = "C://Games/savegames/zippedGames.zip";
         java.io.File file = new java.io.File(path);
